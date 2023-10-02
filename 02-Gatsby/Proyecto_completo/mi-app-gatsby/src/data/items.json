@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "image": "/IMG/sunset_over_water_LIL_134196.jpg",
+      "titulo": "Descubre el paraíso tropical",
+      "text": "Explora playas de arenas doradas, sumérgete en sus aguas cristalinas y déjate llevar por la tibia brisa marina. ¡Todo lo que buscas en tu verano!"
+    },
+    {
+      "id": 2,
+      "image": "/IMG/Forest_LIL_134133.jpg",
+      "titulo": "Aventura en un bosque mágico",
+      "text": "Conéctate con el verde intenso del bosque nuboso, descubre fauna exótica y respira aire puro.  "
+    },
+    {
+      "id": 3,
+      "image": "/IMG/sun_over_mountains_LIL_134158.jpg", 
+      "titulo": "Escala cumbres majestuosas",
+      "text": "Siente la emoción de alcanzar la cima del cielo, disfruta paisajes que quitan el aliento y vive el reto del senderismo de montaña."
+    }
+  ]
