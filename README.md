@@ -34,8 +34,8 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-react-frameworks
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFYI2f2OSh30g/learning-public-crop_675_1200/0/1702279785760?e=2147483647&v=beta&t=dKFnFIK7A0HAVPYngqVFA5evqHQyvN0kE3fQI2kFABA
 
 [1]: # (End of ES-Instruction ###############################################################################################)
 	
